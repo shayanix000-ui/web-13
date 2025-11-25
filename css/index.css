@@ -1,0 +1,8 @@
+.bg-rest{
+    background-image: url(../img/rest.jpg);
+    height: 40rem;
+    background-size: cover;
+}
+.fs-10{
+    font-size: 5rem;
+}
